@@ -5,7 +5,7 @@
     "GMEEK_VERSION":"last",
     
     "iconList":{"write":"M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"},
-    "exlink":{"write":"https://github.com/dongyue12/Gmeek/issues"}
+    "exlink":{"write":"https://github.com/dongyue12/Gmeek/issues"},
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
 
